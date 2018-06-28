@@ -7,13 +7,11 @@
   "engines": {
     "node": ">= 0.6.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "*",
     "colors": "0.5.x",
     "commander": "",
-    "request": "*",
     "underscore": "1.x.x",
     "uglify-js": "",
     "js-yaml": "",

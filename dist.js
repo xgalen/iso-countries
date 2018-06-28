@@ -2,7 +2,6 @@ var colors = require('colors'),
     fs = require('fs'),
     _ = require('underscore'),
     program = require('commander'),
-    request = require('request'),
     yaml = require('js-yaml');
 
 program.version('0.0.3')
